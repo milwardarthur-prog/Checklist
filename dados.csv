@@ -1,0 +1,7 @@
+Equipamento,Horimetro,Responsavel,Data,AmostraTanque,FiltroCombustivel,FiltroRacor1,FiltroRacor2,Observacao
+GE-02-50,1532,Joao Silva,20/06/2026,Boa,Bom,Bom,Trocado,Trocado filtro racor 2 devido a restricao
+GE-03-40,845,Carlos Souza,21/06/2026,Ruim,Trocado,Bom,Bom,Presenca de borra no fundo do tanque
+GE-04-55,2110,Pedro Lima,22/06/2026,Boa,Bom,Bom,Bom,Sem anormalidades. Equipamento operando 100%
+GE-05-55,190,Ricardo Oliveira,22/06/2026,Boa,Trocado,Trocado,Trocado,Manutencao preventiva de 200h antecipada
+GE-06-115,5400,Joao Silva,23/06/2026,Boa,Bom,Bom,Bom,Nivel de oleo completado
+GE-113-360,12,Arthur Milward,24/06/2026,Boa,Bom,Bom,Bom,Equipamento novo em folha

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Checklist de Equipamentos</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+
+  <header>
+    <div class="top-bar">
+      <div class="logo">
+        <i class="fa-solid fa-clipboard-check"></i>
+        <div>
+          <h1>Checklist de Equipamentos</h1>
+          <span id="stats">Carregando equipamentos...</span>
+        </div>
+      </div>
+      <div class="search-container">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" id="searchInput" placeholder="Buscar equipamento..." />
+      </div>
+    </div>
+  </header>
+
+  <div class="grid-container" id="equipmentsGrid"></div>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-info">
+          <h2 id="modalTitle">Equipamento</h2>
+          <p>Histórico de Checklists</p>
+        </div>
+        <button class="btn-close" id="closeModal">×</button>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
