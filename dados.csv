@@ -1,7 +1,27 @@
 Equipamento,Horimetro,Responsavel,Data,AmostraTanque,FiltroCombustivel,FiltroRacor1,FiltroRacor2,Observacao
-GE-02-50,1532,Joao Silva,20/06/2026,Boa,Bom,Bom,Trocado,Trocado filtro racor 2 devido a restricao
-GE-03-40,845,Carlos Souza,21/06/2026,Ruim,Trocado,Bom,Bom,Presenca de borra no fundo do tanque
-GE-04-55,2110,Pedro Lima,22/06/2026,Boa,Bom,Bom,Bom,Sem anormalidades. Equipamento operando 100%
-GE-05-55,190,Ricardo Oliveira,22/06/2026,Boa,Trocado,Trocado,Trocado,Manutencao preventiva de 200h antecipada
-GE-06-115,5400,Joao Silva,23/06/2026,Boa,Bom,Bom,Bom,Nivel de oleo completado
-GE-113-360,12,Arthur Milward,24/06/2026,Boa,Bom,Bom,Bom,Equipamento novo em folha
+GE-67-100,1232,"Windson luiz de Oliveira",26/06/2026,Boa,Bom,Bom,Bom,
+GE-03-40,15638,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Trocado,Bom,Bom,"Marcas de vazamento no radiador"
+GE-79-81,8866,Windson,23/06/2026,Boa,Trocado,Trocado,Bom,
+GE-67-100,1222,Windson,23/06/2026,Boa,Trocado,Trocado,Bom,
+GE-86-81,1102.9,Windson,23/06/2026,Boa,Trocado,Trocado,Bom,"TROCA DO TERMINAL POSITIVO DA BATERIA"
+GE-108-125,774,Ricardo,11/06/2026,Boa,Bom,Bom,Bom,
+GE-53-140,995,Ricardo,11/06/2026,Boa,Bom,Bom,Bom,
+GE-76-81,873.9,Ricardo,11/06/2026,Boa,Trocado,Trocado,Bom,
+GE-111-125,382.9,Victor,23/06/2026,Boa,Bom,Bom,Bom,
+GE-82-100,2358.9,Victor,23/06/2026,Boa,Trocado,Bom,Bom,
+GE-100-125,877,Victor,23/06/2026,Boa,Trocado,Bom,Bom,
+GE-108-125,799,Victor,23/06/2026,Boa,Bom,Bom,Bom,
+GE-94-200,1929,Victor,22/06/2026,Boa,Bom,Bom,Bom,
+GE-105-45,246,Windson,22/06/2026,Boa,Trocado,Trocado,Bom,
+GE-19-81,6323,Windson,22/06/2026,Boa,Bom,Bom,Bom,
+GE-53-140,1020,Victor,22/06/2026,Boa,Bom,Bom,Bom,
+GE-58-81,1266,Victor,22/06/2026,Ruim,Trocado,Trocado,Bom,"TECNICO RELATOU COMBUSTIVEL COM ASPECTO RUIM"
+GE-112-125,487,"Windson luiz de Oliveira",26/06/2026,Boa,Trocado,Trocado,Bom,
+GE-76-81,1,Windson,22/06/2026,Boa,Trocado,Trocado,Bom,
+GE-09-170,3882,Victor,22/06/2026,Boa,Bom,Bom,Bom,
+GE-56-81,1,Windson,22/06/2026,Boa,Trocado,Bom,Bom,
+GE-38-180,17145,Victor,22/06/2026,Boa,Bom,Bom,Bom,
+GE-93-85,1934.1,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Bom,Bom,Bom,Ok
+GE-87-81,41.5,"Windson luiz de Oliveira",26/06/2026,Boa,Trocado,Trocado,Bom,
+GE-27-180,2315.55,"Windson luiz de Oliveira",26/06/2026,Boa,Bom,Trocado,Bom,
+GE-17-81,87860,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Bom,Bom,Bom,"Pequenas partículas no tanque"
