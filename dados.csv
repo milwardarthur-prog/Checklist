@@ -1,6 +1,7 @@
 Equipamento,Horimetro,Responsavel,Data,AmostraTanque,FiltroCombustivel,FiltroRacor1,FiltroRacor2,Observacao
+GE-111-125,392,"Windson luiz de Oliveira",26/06/2026,Boa,Bom,Bom,Bom,
 GE-67-100,1232,"Windson luiz de Oliveira",26/06/2026,Boa,Bom,Bom,Bom,
-GE-03-40,15638,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Trocado,Bom,Bom,"Marcas de vazamento no radiador"
+GE-03-40,15638,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Trocado,Bom,Bom,"Marcas de vazamento no radiador; suporte do calço do motor quebrado e vazamento na tampa de válvula"
 GE-79-81,8866,Windson,23/06/2026,Boa,Trocado,Trocado,Bom,
 GE-67-100,1222,Windson,23/06/2026,Boa,Trocado,Trocado,Bom,
 GE-86-81,1102.9,Windson,23/06/2026,Boa,Trocado,Trocado,Bom,"TROCA DO TERMINAL POSITIVO DA BATERIA"
@@ -24,4 +25,14 @@ GE-38-180,17145,Victor,22/06/2026,Boa,Bom,Bom,Bom,
 GE-93-85,1934.1,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Bom,Bom,Bom,Ok
 GE-87-81,41.5,"Windson luiz de Oliveira",26/06/2026,Boa,Trocado,Trocado,Bom,
 GE-27-180,2315.55,"Windson luiz de Oliveira",26/06/2026,Boa,Bom,Trocado,Bom,
-GE-17-81,87860,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Bom,Bom,Bom,"Pequenas partículas no tanque"
+GE-17-81,87860,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Bom,Bom,Bom,"Pequenas partículas no tanque; teto amassado e faltando parafuso do coxim do alternador"
+GE-83-140,57847,"Lucas de Oliveira Silva Santos",26/06/2026,Boa,Trocado,Trocado,Bom,"Excesso de combustível no tanque (transbordando)"
+GE-111-125,404,"Windson luiz de Oliveira",29/06/2026,Boa,Bom,Trocado,Bom,
+GE-40-180,1717,"Windson luiz de Oliveira",30/06/2026,Boa,Bom,Trocado,Bom,
+GE-67-100,1232,"Windson luiz de Oliveira",30/06/2026,Boa,Bom,Bom,Bom,
+GE-111-125,404,"Windson luiz de Oliveira",30/06/2026,Boa,Bom,Bom,Bom,
+GE-09-170,3881,"Windson luiz de Oliveira",30/06/2026,Boa,Bom,Bom,Bom,
+GE-82-100,2410.8,"Windson luiz de Oliveira",01/07/2026,Boa,Bom,Bom,Bom,
+GE-67-100,1232,"Windson luiz de Oliveira",01/07/2026,Boa,Bom,Bom,Bom,
+GE-105-45,243,"Windson luiz de Oliveira",01/07/2026,Boa,Bom,Bom,Bom,
+GE-56-55,15879,Alex,01/07/2026,Boa,Trocado,Bom,Bom,
